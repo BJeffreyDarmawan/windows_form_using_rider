@@ -1,0 +1,8 @@
+C:\Users\Lenovo\RiderProjects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Lenovo\RiderProjects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Lenovo\RiderProjects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+C:\Users\Lenovo\RiderProjects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Lenovo\RiderProjects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+C:\Users\Lenovo\RiderProjects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
